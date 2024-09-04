@@ -48,7 +48,7 @@ Github Stats
 </div>
 
 <div align="center">
-    <a href="https://github.com/solvz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solvz&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=444e59&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top     Languages" /></a>
+    <a href="https://github.com/solvz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solvz&langs_count=5&title_color=14b8a6&text_color=14b8a6&icon_color=444e59&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top     Languages" /></a>
 </div>
 
 --------------------------------
