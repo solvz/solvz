@@ -40,15 +40,11 @@ Cybersecurity, Web3, Backend Dev
 
 Github Stats
 --------------------------------
-<div align="center">
-    <a href="http://www.github.com/solvz">
-        ![solvz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=solvz&theme=blueberry&hide_border=false)
-    </a>
-</div>
 
-<div align="center">
-    ![solvz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solvz&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
-</div>
+![solvz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=solvz&theme=blueberry&hide_border=false)
+
+
+![solvz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solvz&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 
 --------------------------------
 
