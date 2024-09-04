@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krishna Rajeev
+Heyyo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krishna Rajeev
 ======================================================================================================================================
 
 Cybersecurity, Web3, Backend Dev
 --------------------------------
 
 * 🌍  I'm based in India
+* Working on advancing skills
 * ✉️  You can contact me at [krishnarajeev2005@gmail.com](mailto:krishnarajeev2005@gmail.com)
 
 ### Skills
