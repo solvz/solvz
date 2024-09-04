@@ -53,8 +53,8 @@ Github Stats
 
 --------------------------------
 
-Also
 ```
+let ifNothingWorksThen = everything.clone()
+
 //Rusting over time
-everything.clone()
 ```
