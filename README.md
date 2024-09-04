@@ -39,7 +39,7 @@ Cybersecurity, Web3, Backend Dev
 
 ### Badges
 
-## Github Stats
+Github Stats
 --------------------------------
 <div align="center">
     <a href="http://www.github.com/solvz">
@@ -52,3 +52,9 @@ Cybersecurity, Web3, Backend Dev
 </div>
 
 --------------------------------
+
+Also
+```
+//Rusting over time
+everything.clone()
+```
