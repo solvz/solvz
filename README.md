@@ -36,7 +36,7 @@ Cybersecurity, Web3, Backend Dev
 
 <p align="left"> <a href="https://discord.com/users/solvz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/solvz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/KRsolvz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-![solvz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solvz&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+
 
 Github Stats
 --------------------------------
@@ -47,7 +47,7 @@ Github Stats
 </div>
 
 <div align="center">
-    <a href="https://github.com/solvz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solvz&langs_count=5&title_color=14b8a6&text_color=14b8a6&icon_color=444e59&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top     Languages" /></a>
+    ![solvz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solvz&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 </div>
 
 --------------------------------
