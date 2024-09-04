@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png) <br>
-## **Heyyo, My name is Krishna Rajeev** <br>
+## **Heyyo, My name is Krishna Rajeev** 
 #### **Cybersecurity, Web3, Backend Dev** 
 
 --------------------------------
