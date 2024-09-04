@@ -41,7 +41,7 @@ Github Stats
 --------------------------------
 <div align="center">
     <a href="http://www.github.com/solvz">
-        <img src="https://github-readme-stats.vercel.app/api?username=solvz&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=14b8a6&icon_color=444e59&bg_color=134e4a&hide_border=true&show_icons=true" alt="solvz's GitHub stats" /></a>
+        ![solvz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=solvz&theme=midnight-purple&hide_border=false)
     </a>
 </div>
 
