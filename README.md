@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#**Heyyo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krishna Rajeev**
+**![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Heyyo, My name is Krishna Rajeev**
 ======================================================================================================================================
 
 Cybersecurity, Web3, Backend Dev
@@ -46,6 +46,9 @@ Cybersecurity, Web3, Backend Dev
         <img src="https://github-readme-stats.vercel.app/api?username=solvz&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=14b8a6&icon_color=444e59&bg_color=134e4a&hide_border=true&show_icons=true" alt="solvz's GitHub stats" /></a>
     </a>
 </div>
---------------------------------
 
-<a href="https://github.com/solvz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solvz&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=444e59&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+    <a href="https://github.com/solvz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solvz&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=444e59&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top     Languages" /></a>
+</div>
+
+--------------------------------
