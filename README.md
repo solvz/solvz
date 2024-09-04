@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-<span style="font-size:24px;">Heyyo, My name is Krishna Rajeevt</span>
-<!-- #  **![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Heyyo, My name is Krishna Rajeev** -->
-## **Cybersecurity, Web3, Backend Dev**
+#  **![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Heyyo, My name is Krishna Rajeev**
+**Cybersecurity, Web3, Backend Dev**
 
 --------------------------------
 
