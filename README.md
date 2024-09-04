@@ -22,7 +22,7 @@ Cybersecurity, Web3, Backend Dev
 --------------------------------
 
 * 🌍  I'm based in India
-* 🌱  Working on advancing skills
+* 🌱  Working on learning new skills and advancing older ones
 * ✉️  You can contact me at [krishnarajeev2005@gmail.com](mailto:krishnarajeev2005@gmail.com)
 
 ## Skills
