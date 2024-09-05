@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 # **Heyyo, My name is Krishna Rajeev**
 ### Cybersecurity, Web3, Backend Dev
 
---------------------------------
+
 
 * 🌍  I'm based in India
 * 🌱  Working on learning new skills and advancing older ones
 * ✉️  You can contact me at [krishnarajeev2005@gmail.com](mailto:krishnarajeev2005@gmail.com)
+
+--------------------------------
 
 ## Skills
 
