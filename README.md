@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 * 🌍  I'm based in India
-* 🌱  Working on learning new skills and advancing older ones
+* 🌱  Working on learning new skills and advancing older ones, also working on some projects 👀
 * ✉️  You can contact me at [krishnarajeev2005@gmail.com](mailto:krishnarajeev2005@gmail.com)
 
 --------------------------------
