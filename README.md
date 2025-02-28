@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio](http://solvz.github.io)
+* 🖥️  See my portfolio at [Portfolio](https://krishnarajeev.tech/)
 * 🌱  Working on learning new skills and advancing older ones, also working on some projects 👀
 * ✉️  You can contact me at [krishnarajeev.kar@gmail.com](mailto:krishnarajeev.kar@gmail.com)
 
